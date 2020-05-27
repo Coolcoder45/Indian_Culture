@@ -1,0 +1,27 @@
+.heading {
+  text-align: center;
+}
+.border {
+  border: 10px;
+  background-color: gray;
+
+}
+.grid {
+              background-color: #0ffa46;
+              display: grid;
+              padding: 20px;
+              grid-column-gap: 20px;
+              grid-row-gap: 10px;
+              grid-template-columns: 250px auto;
+          }
+
+          .grid-item {
+              background-color: #ffc98c;
+              font-size: 20px;
+              padding: 20px;
+              text-align: center;
+              color: #870080;
+          }
+.backk {
+  background-image: url("back1.jpg");
+}
